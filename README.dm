@@ -1,4 +1,4 @@
-Pobranie projektu z submodules
+Pobranie projektu razem z submodules
 git clone --recurse-submodules https://github.com/Milosz981998/Calculator.git
 
 Następnie
