@@ -5,7 +5,7 @@ Następnie
 docker-compose build
 
 Po zbudowaniu
-docker-compose build
+docker-compose up
 
 url aplikacji
 http://localhost:8080
